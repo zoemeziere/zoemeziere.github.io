@@ -3,9 +3,7 @@ title: "About me"
 ---
 
 ::: grid
-::: g-col-4
 ![](img/Headshot.jpg)
-:::
 
 ::: g-col-8
 Hi! I am Zoe, a PhD student in the Riginos Lab at the University of Queensland, studying the genetic diversity, connectivity and adaptation of corals from the Great Barrier Reef.
