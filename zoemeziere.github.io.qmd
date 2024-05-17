@@ -2,6 +2,14 @@
 title: "About me"
 ---
 
+```         
+<style>
+.add-space{
+padding-right: 11%;
+}
+</style>
+```
+
 ::: columns
 ::: column
 ![](img/Headshot.jpg){width="1693"}
