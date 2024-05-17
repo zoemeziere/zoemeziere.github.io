@@ -1,0 +1,7 @@
+project:
+  title: "zoemeziere.github.io"
+  type: website
+  output-dir: ../docs
+  
+editor: visual
+
