@@ -5,11 +5,10 @@ title: "Research"
 ## Cryptic speciation in *Stylophora pistillata*
 
 ::: {.column .add-space width="44%"}
-![](img/Stylo_macro.jpg){width="1693"}
+![](img/Sytylo_macro.png)
 :::
 
 ::: {.column width="44%"}
-
 :::
 
 ## Dispersal, gene flow and genetic diversity in *Stylophora pistillata* and *Pocillopora verrucosa*
