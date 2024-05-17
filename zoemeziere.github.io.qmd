@@ -4,7 +4,7 @@ title: "About me"
 
 ::: columns
 ::: column
-![](img/Headshot.jpg){width="2539"}
+![](img/Headshot.jpg){width="1693"}
 :::
 
 ::: {.column}
