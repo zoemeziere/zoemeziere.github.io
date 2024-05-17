@@ -17,7 +17,7 @@ website:
         href: "https://www.researchgate.net/profile/Zoe-Meziere/"
       - icon: twitter
         href: "https://twitter.com/zoe_meziere"
-      - icon: "{{< iconify fa6-brands github >}}"
+      - icon: github
         href: "https://github.com/ecolology/zoemeziere"
 
   page-footer:
