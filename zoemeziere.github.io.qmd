@@ -3,8 +3,8 @@ title: "About me"
 ---
 
 ::: columns
-::: {.column}
-![](img/Headshot.jpg)
+::: column
+![](img/Headshot.jpg){width="2539"}
 :::
 
 ::: {.column}
