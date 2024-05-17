@@ -1,7 +1,11 @@
 ---
-title: "Zoe Meziere"
+title: "About me"
 ---
 
-Welcome to my new website :)
+::: {layout="\[ 30, 70 \]"}
 
-Add here
+::: {#first-column}
+
+\![\](images/Headshot.jpg)
+
+:::
