@@ -4,7 +4,7 @@ title: "About me"
 
 ::: grid
 ::: g-col-4
-\![\](img/Headshot.jpg)
+![](img/Headshot.jpg)
 :::
 
 ::: g-col-8
