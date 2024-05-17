@@ -13,7 +13,7 @@ website:
       - href: publications.qmd
         text: Publications
     right:
-      - text: mailbox
+      - text: mailbox2-flag
         href: "z.meziere@uq.edu.au"
       - icon: twitter
         href: "https://twitter.com/zoe_meziere"
