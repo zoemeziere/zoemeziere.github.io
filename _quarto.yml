@@ -18,7 +18,7 @@ website:
       - icon: twitter
         href: "https://twitter.com/zoe_meziere"
       - icon: github
-        href: "https://github.com/ecolology/zoemeziere"
+        href: "https://github.com/zoemeziere"
 
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
