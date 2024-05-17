@@ -18,7 +18,9 @@ website:
       - icon: github
         href: "https://github.com/zoemeziere"
       - icon: envelope
-        href: "z.meziere@uq.edu.au"
+        href: "mailto:z.meziere@uq.edu.au"
+      - icon: google-scholar
+        href: "https://scholar.google.com.au/citations?user=sXHJHJUAAAAJ&hl=en"
 
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
