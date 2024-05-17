@@ -2,10 +2,12 @@
 title: "About me"
 ---
 
-<div>
-
+::: columns
+::: {.column}
 ![](img/Headshot.jpg)
 
-I am Zoe, a PhD student
-
-</div>
+::: {.column}
+I'm Zoe, a PhD student in the Riginos Lab at the university of Queensland, studying the genetic diversity, connectivity and adaptation of corals from the Great Barrier Reef.
+:::
+:::
+:::
