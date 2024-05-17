@@ -17,7 +17,7 @@ website:
     
 format: 
   html: 
-    theme: lumen
+    theme: solar
     toc: true
 
 editor: visual
