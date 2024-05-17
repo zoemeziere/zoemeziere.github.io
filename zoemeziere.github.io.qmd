@@ -2,10 +2,6 @@
 title: "About me"
 ---
 
-<div>
-
-</div>
-
 ::: {#first-column}
 \![\](img/Headshot.jpg)
 :::
