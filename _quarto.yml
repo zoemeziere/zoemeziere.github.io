@@ -1,5 +1,4 @@
 project:
-  title: "zoemeziere.github.io"
   type: website
   output-dir: ../docs
 
@@ -15,10 +14,10 @@ website:
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Zoe Meziere, 2024"
+    
 format: 
   html: 
     theme: lumen
     toc: true
 
 editor: visual
-
