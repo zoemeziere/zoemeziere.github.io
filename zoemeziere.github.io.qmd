@@ -3,7 +3,7 @@ title: "About me"
 ---
 
 ::: {#first-column}
-\![\](img/Headshot.jpg)
+\![ \](img/Headshot.jpg)
 :::
 
 ::: {#second-column}
