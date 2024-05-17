@@ -16,7 +16,7 @@ website:
       - text: "{{< iconify fa6-brands researchgate >}}"
         href: "https://www.researchgate.net/profile/Zoe-Meziere/"
       - icon: twitter
-        href: "https://twitter.com/"
+        href: "https://twitter.com/zoe_meziere"
       - icon: "{{< iconify fa6-brands github >}}"
         href: "https://github.com/ecolology/zoemeziere"
 
@@ -27,6 +27,6 @@ website:
 format: 
   html: 
     theme: solar
-    toc: true
+    toc: false
 
 editor: visual
