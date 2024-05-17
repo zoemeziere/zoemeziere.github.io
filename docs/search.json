@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Add papers here"
+    "text": "For my PhD research, I am combining genomic tools, ecological and environmental data as well as long-term experiments to learn about the evolution and ecology of coral species and to better understand their fate under climate change. Some of the main themes of my research are summarized bellow."
   },
   {
     "objectID": "publications.html",
@@ -26,5 +26,26 @@
     "title": "Zoe Meziere",
     "section": "Education",
     "text": "Education\nMSc. in Evolutionary Biology (Erasmus Mundus MEME program) (2017 - 2019)\nUppsala University (Sweeden)\nLudwig Maximilian University (Germany)\n\nBSc. in Biology and Mathematics (2014 - 2017)\nPierre and Marie Curie University at Roscoff Research Station (France)"
+  },
+  {
+    "objectID": "research.html#cryptic-speciation-in-stylophora-pistillata",
+    "href": "research.html#cryptic-speciation-in-stylophora-pistillata",
+    "title": "Research",
+    "section": "Cryptic speciation in Stylophora pistillata",
+    "text": "Cryptic speciation in Stylophora pistillata"
+  },
+  {
+    "objectID": "research.html#dispersal-gene-flow-and-genetic-diversity-in-stylophora-pistillata-and-pocillopora-verrucosa",
+    "href": "research.html#dispersal-gene-flow-and-genetic-diversity-in-stylophora-pistillata-and-pocillopora-verrucosa",
+    "title": "Research",
+    "section": "Dispersal, gene flow and genetic diversity in Stylophora pistillata and Pocillopora verrucosa",
+    "text": "Dispersal, gene flow and genetic diversity in Stylophora pistillata and Pocillopora verrucosa"
+  },
+  {
+    "objectID": "research.html#long-term-coral-common-garden-experiment",
+    "href": "research.html#long-term-coral-common-garden-experiment",
+    "title": "Research",
+    "section": "Long-term coral common garden experiment",
+    "text": "Long-term coral common garden experiment"
   }
 ]
