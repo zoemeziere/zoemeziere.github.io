@@ -2,6 +2,4 @@
 title: "Zoe Meziere"
 ---
 
-```{r}
 Welcome to my new website :)
-```
