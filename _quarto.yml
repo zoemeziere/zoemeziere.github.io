@@ -6,7 +6,7 @@ website:
   title: "Zoe Meziere"
   navbar:
     left:
-      - href: zoemeziere.github.io.qmd
+      - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
