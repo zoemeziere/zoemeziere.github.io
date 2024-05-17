@@ -2,10 +2,14 @@
 title: "About me"
 ---
 
-::: {layout="\[ 30, 70 \]"}
+<div>
 
 ::: {#first-column}
-
 \![\](images/Headshot.jpg)
+:::
 
+</div>
+
+::: {#second-column}
+Hi! I'm Zoe, a PhD student in the Riginos Lab at the University of Queensland, studying the genetic diversity, connectivity and adaptation of corals from the Great Barrier Reef.
 :::
