@@ -12,10 +12,10 @@ padding-right: 11%;
 
 </style>
 
-::: {.column width="24%" .add-space}
+::: {.column width="44%" .add-space}
 ![](img/Headshot.jpg){width="1693"}
 :::
 
-::: {.column width=64%}
+::: {.column width=44%}
 I'm Zoe, a PhD student in the Riginos Lab at the university of Queensland, studying the genetic diversity, connectivity and adaptation of corals from the Great Barrier Reef.
 :::
