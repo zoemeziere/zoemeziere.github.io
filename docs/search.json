@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Add papers here"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Add Publications here"
+  },
+  {
+    "objectID": "zoemeziere.github.io.html",
+    "href": "zoemeziere.github.io.html",
+    "title": "About me",
+    "section": "",
+    "text": "![](images/Headshot.jpg)\n\n\nHi! I’m Zoe, a PhD student in the Riginos Lab at the University of Queensland, studying the genetic diversity, connectivity and adaptation of corals from the Great Barrier Reef."
+  }
+]
