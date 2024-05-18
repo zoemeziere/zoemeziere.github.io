@@ -37,5 +37,5 @@ Watch this space!
 :::
 
 ::: {.column width="30%"}
-![](img/Experiments.jpg){width="7.5cm"}
+![](img/Experiments.jpg){width="10cm"}
 :::
