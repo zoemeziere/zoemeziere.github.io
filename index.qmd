@@ -9,6 +9,13 @@ padding-right: 5%;
 
 </style>
 ```
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+::: {.justify}
+
 ::: {.column .add-space width="35%"}
 ![](img/Headshot.jpg){width="8.5cm"}
 :::
@@ -28,3 +35,5 @@ Ludwig Maximilian University (Germany)\
 **BSc. in Biology and Mathematics** (2014 - 2017)\
 Pierre and Marie Curie University at Roscoff Research Station (France)\
 \
+
+:::
