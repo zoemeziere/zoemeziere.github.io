@@ -30,6 +30,7 @@ format:
   html: 
     theme: solar
     toc: false
+    fontsize: 18pt
     grid: 
       body-width: 1200px
       sidebar-width: 300px
