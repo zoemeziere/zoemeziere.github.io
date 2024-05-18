@@ -10,7 +10,7 @@ padding-right: 5%;
 </style>
 ```
 ::: {.column .add-space width="45%"}
-![](img/Headshot.jpg){width="845"}
+![](img/Headshot.jpg){width="8.5cm"}
 :::
 
 ::: {.column width="50%"}
