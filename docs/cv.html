@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Zoe Meziere</title>
+<title>Zoe Meziere - Curriculum Vitae</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -80,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="./index.html" rel="" target="">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -92,7 +92,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./cv.html" rel="" target="">
+    <a class="nav-link active" href="./cv.html" rel="" target="" aria-current="page">
  <span class="menu-text">Curriculum Vitae</span></a>
   </li>  
 </ul>
@@ -132,35 +132,58 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-<style>
-.add-space{
-padding-right: 5%;
-}
-
-</style>
-<div class="column add-space" style="width:35%;">
-<p><img src="img/Headshot.jpg" class="img-fluid" style="width:8.5cm"></p>
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Curriculum Vitae</h1>
 </div>
-<div class="column" style="width:60%;">
-<p>Hi, I’m Zoe (she/her), a PhD candidate in the Riginos Lab at the University of Queensland. My work combines genomic methods with ecological and environmental data as well as long-term experiments to learn more about the evolutionary history and adaptive potential of corals from the Great Barrier Reef.</p>
-<p>Some of my research interests include speciation and hybridization, population connectivity and dispersal, and the distribution of adaptive genetic variation across environments. I am particularly interested in using fundamental eco-evolutionary knowledge to better predict the fate of coral species and populations under climate change and to help conservation and restoration efforts.</p>
-<p>I am very lucky to have grown up in the French Caribbeans, surrounded by nature, where I first discovered and fell in love with marine ecosystems. I was privileged to have a supportive family that prioritized my education, and I am passionate about increasing access to academia and diversity in science.</p>
-</div>
-<section id="education" class="level2">
-<h2 class="anchored" data-anchor-id="education">Education</h2>
-<p><strong>MSc. in Evolutionary Biology (Erasmus Mundus MEME program)</strong> (2017 - 2019)<br>
-Uppsala University (Sweden)<br>
-Ludwig Maximilian University (Germany)<br>
-<br>
-<strong>BSc. in Biology and Mathematics</strong> (2014 - 2017)<br>
-Pierre and Marie Curie University at Roscoff Research Station (France)<br>
-<br>
-</p>
 
 
-</section>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>```{css, echo=FALSE}</p>
+<p>#title-block-header .description {</p>
+<p>display: none;</p>
+<p>}</p>
+<p>```</p>
+<p>```{css echo=FALSE}</p>
+<p>.embed-container {</p>
+<p>position: relative;</p>
+<p>padding-bottom: 129%;</p>
+<p>height: 0;</p>
+<p>overflow: hidden;</p>
+<p>max-width: 100%;</p>
+<p>}</p>
+<p>.embed-container iframe,</p>
+<p>.embed-container object,</p>
+<p>.embed-container embed {</p>
+<p>position: absolute;</p>
+<p>top: 0;</p>
+<p>left: 0;</p>
+<p>width: 100%;</p>
+<p>height: 100%;</p>
+<p>}</p>
+<p>```</p>
+<p>```{=html}</p>
+<p>&lt;p class=“text-center”&gt;</p>
+<p>&lt;a class=“btn btn-primary btn-lg cv-download” href=“`r rmarkdown::metadata$cv$pdf`” target=“_blank”&gt;</p>
+<p>&lt;i class=“fa-solid fa-file-arrow-down”&gt;&lt;/i&gt; Download current CV</p>
+<p>&lt;/a&gt;</p>
+<p>&lt;/p&gt;</p>
+<p>&lt;div class=“embed-container”&gt;</p>
+<p>&lt;iframe src=“`r rmarkdown::metadata$cv$pdf`” style=“border: 0.5px”&gt;&lt;/iframe&gt;</p>
+<p>&lt;/div&gt;</p>
+<p>```</p>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
