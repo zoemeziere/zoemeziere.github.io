@@ -2,13 +2,12 @@
 title: "Publications"
 ---
 
-```{{css, echo = FALSE}}
-.justify {
-  text-align: justify !important
+```{css}
+#| echo: false
+p {
+  text-align: justify
 }
 ```
-
-::: {.justify}
 
 # 2024
 
@@ -19,5 +18,3 @@ Riginos, C., Popovic, I., **Meziere, Z.**, Garcia, V., Byrne, I., Howitt, S., Is
 # 2021
 
 **Meziere, Z.**, Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. *Science of The Total Environment*, 151639. <https://doi.org/10.1016/j.scitotenv.2021.151639>
-
-:::

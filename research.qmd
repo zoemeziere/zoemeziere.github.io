@@ -4,22 +4,19 @@ title: "Research"
 
 ```{=html}
 <style>
-
 .add-space{
-
 padding-right: 5%;
-
 }
 
 </style>
 ```
-```{css, echo = FALSE}
-.justify {
-  text-align: justify !important
+```{css}
+#| echo: false
+p {
+  text-align: justify
 }
 ```
 
-::: justify
 # Cryptic speciation in *Stylophora pistillata*
 
 ::: {.column .add-space width="65%"}
@@ -48,5 +45,4 @@ Watch this space!
 
 ::: {.column width="30%"}
 Insert image here
-:::
 :::
