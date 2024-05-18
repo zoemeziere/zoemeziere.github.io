@@ -30,5 +30,10 @@ format:
   html: 
     theme: solar
     toc: false
+    grid: 
+      body-width: 900px
+      sidebar-width: 300px
+      margin-width: 300px
+      gutter-width: 1.5rem
 
 editor: visual
