@@ -25,4 +25,20 @@ For the first PhD chapter, I extensively sampled *Stylophora pistillata* colonie
 
 ## Dispersal, gene flow and genetic diversity in *Stylophora pistillata* and *Pocillopora verrucosa*
 
+::: {.column .add-space width="65%"}
+Watch this space!
+:::
+
+::: {.column width="30%"}
+Insert image here
+:::
+
 ## Long-term coral common garden experiment
+
+::: {.column .add-space width="65%"}
+Watch this space!
+:::
+
+::: {.column width="30%"}
+Insert image here
+:::
