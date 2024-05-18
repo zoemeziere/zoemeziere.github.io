@@ -6,12 +6,6 @@ padding-right: 5%;
 
 </style>
 ```
-```{css}
-#| echo: false
-p {
-  text-align: justify
-}
-```
 
 ::: {.column .add-space width="35%"}
 ![](img/Headshot.jpg){width="8.5cm"}

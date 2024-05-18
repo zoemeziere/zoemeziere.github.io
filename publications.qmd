@@ -2,13 +2,6 @@
 title: "Publications"
 ---
 
-```{css}
-#| echo: false
-p {
-  text-align: justify
-}
-```
-
 # 2024
 
 Riginos, C., Popovic, I., **Meziere, Z.**, Garcia, V., Byrne, I., Howitt, S., Ishida, H., Bairos-Novak, K., Humanes, A., Scharfenstein, H., Richards, T., Briggs, E., Clark, V., Lei, C., Khan, M., & Prata, K. (2024). *Cryptic species and hybridisation in corals: Challenges and opportunities for conservation and restoration*. <https://doi.org/10.32942/X2502X>
