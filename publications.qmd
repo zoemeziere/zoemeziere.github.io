@@ -4,10 +4,10 @@ title: "Publications"
 
 # 2024
 
-Riginos, C., Popovic, I., Meziere, Z., Garcia, V., Byrne, I., Howitt, S., Ishida, H., Bairos-Novak, K., Humanes, A., Scharfenstein, H., Richards, T., Briggs, E., Clark, V., Lei, C., Khan, M., & Prata, K. (2024). *Cryptic species and hybridisation in corals: Challenges and opportunities for conservation and restoration*. <https://doi.org/10.32942/X2502X>
+Riginos, C., Popovic, I., **Meziere, Z.**, Garcia, V., Byrne, I., Howitt, S., Ishida, H., Bairos-Novak, K., Humanes, A., Scharfenstein, H., Richards, T., Briggs, E., Clark, V., Lei, C., Khan, M., & Prata, K. (2024). *Cryptic species and hybridisation in corals: Challenges and opportunities for conservation and restoration*. <https://doi.org/10.32942/X2502X>
 
-Meziere, Z., Popovic, I., Prata, K., Ryan, I., Pandolfi, J., & Riginos, C. (2024). Exploring coral speciation: Multiple sympatric *Stylophora pistillata* taxa along a divergence continuum on the Great Barrier Reef. *Evolutionary Applications*, *17*(1), e13644. <https://doi.org/10.1111/eva.13644>
+**Meziere, Z.**, Popovic, I., Prata, K., Ryan, I., Pandolfi, J., & Riginos, C. (2024). Exploring coral speciation: Multiple sympatric *Stylophora pistillata* taxa along a divergence continuum on the Great Barrier Reef. *Evolutionary Applications*, *17*(1), e13644. <https://doi.org/10.1111/eva.13644>
 
 # 2021
 
-Meziere, Z., Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. *Science of The Total Environment*, 151639. <https://doi.org/10.1016/j.scitotenv.2021.151639>
+**Meziere, Z.**, Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. *Science of The Total Environment*, 151639. <https://doi.org/10.1016/j.scitotenv.2021.151639>
