@@ -2,13 +2,23 @@
 title: "Research"
 ---
 
+<style>
+
+.add-space{
+
+padding-right: 11%;
+
+}
+
+</style>
+
 ## Cryptic speciation in *Stylophora pistillata*
 
-::: {.column width="44%"}
+::: {.column .add-space width="44%"}
 For the first PhD chapter, I extensively sampled *Stylophora pistillata* colonies across diverse habitats and at multiple reefs of the Great Barrier Reef. With a final dataset of 379 individuals and 5,332 SNPs obtained from reduced representation (ddRAD) sequencing, I discovered five distinct taxa, with wide geographic ranges and extensive sympatry. I used demographic modelling to investigate divergence histories and found that speciation events have occurred with ongoing or episodic gene flow and that these taxa are at different stages along a divergence continuum. In addition, significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation and that *S. pistillata* taxa might be differentially adapted to their environment. 
 :::
 
-::: {.column .add-space width="44%"}
+::: {.column width="44%"}
 ![](img/Sytylo_macro.png)
 :::
 
