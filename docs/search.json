@@ -25,7 +25,7 @@
     "href": "research.html#long-term-coral-common-garden-experiment-during-a-natural-bleaching-event",
     "title": "Research",
     "section": "Long-term coral common garden experiment during a natural bleaching event",
-    "text": "Long-term coral common garden experiment during a natural bleaching event\n\nDuring the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particular affected the Southern reefs. To capture intra-specific variation in phenotypic responses facing heat stress and to relate these phenotypic differences with genomic variation, I conducted a long-term common garden experiment. Specifically, I subjected fragments of multiple S. pistillata genotypes to a common environment that was representative of natural conditions during and after a heat wave. By combining weekly survival and health measurements with whole-genome sequencing data, I aim to uncover the genomic basis of bleaching and survival variation within species at small spatial scale. Stay tune!"
+    "text": "Long-term coral common garden experiment during a natural bleaching event\n\nDuring the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To capture intra-specific variation in phenotypic responses facing heat stress and to relate these phenotypic differences with genomic variation, I conducted a long-term common garden experiment. Specifically, I subjected fragments of multiple S. pistillata genotypes to a common environment that was representative of natural conditions during and after a heat wave. By combining weekly survival and health measurements with whole-genome sequencing data, I aim to uncover the genomic basis of bleaching and survival variation within species at small spatial scale. Stay tune!"
   },
   {
     "objectID": "index.html#education",
@@ -60,6 +60,6 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "```{css, echo=FALSE}\n#title-block-header .description {\ndisplay: none;\n}\n```\n```{css echo=FALSE}\n.embed-container {\nposition: relative;\npadding-bottom: 129%;\nheight: 0;\noverflow: hidden;\nmax-width: 100%;\n}\n.embed-container iframe,\n.embed-container object,\n.embed-container embed {\nposition: absolute;\ntop: 0;\nleft: 0;\nwidth: 100%;\nheight: 100%;\n}\n```\n```{=html}\n&lt;p class=“text-center”&gt;\n&lt;a class=“btn btn-primary btn-lg cv-download” href=“`r rmarkdown::metadata$cv$pdf`” target=“_blank”&gt;\n&lt;i class=“fa-solid fa-file-arrow-down”&gt;&lt;/i&gt; Download current CV\n&lt;/a&gt;\n&lt;/p&gt;\n&lt;div class=“embed-container”&gt;\n&lt;iframe src=“`r rmarkdown::metadata$cv$pdf`” style=“border: 0.5px”&gt;&lt;/iframe&gt;\n&lt;/div&gt;\n```"
+    "text": "{{=html}} &lt;object data=\"Zoe_Meziere_CV.pdf\" type=\"application/pdf\" width=\"100%\" height=\"100%\" style=\"min-height:100vh;\"&gt;     &lt;p&gt;It appears you don't have a PDF plugin for this browser.     No biggie... you can &lt;a href=\"slides123.pdf\"&gt;click here to     download the PDF file.&lt;/a&gt;&lt;/p&gt; &lt;/object&gt;"
   }
 ]

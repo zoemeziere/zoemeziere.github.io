@@ -37,7 +37,7 @@ This is work in progress, watch this space!
 ## Long-term coral common garden experiment during a natural bleaching event
 
 ::: {.column .add-space width="65%"}
-During the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particular affected the Southern reefs. To capture intra-specific variation in phenotypic responses facing heat stress and to relate these phenotypic differences with genomic variation, I conducted a long-term common garden experiment. Specifically, I subjected fragments of multiple *S. pistillata* genotypes to a common environment that was representative of natural conditions during and after a heat wave. By combining weekly survival and health measurements with whole-genome sequencing data, I aim to uncover the genomic basis of bleaching and survival variation within species at small spatial scale. Stay tune!
+During the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To capture intra-specific variation in phenotypic responses facing heat stress and to relate these phenotypic differences with genomic variation, I conducted a long-term common garden experiment. Specifically, I subjected fragments of multiple *S. pistillata* genotypes to a common environment that was representative of natural conditions during and after a heat wave. By combining weekly survival and health measurements with whole-genome sequencing data, I aim to uncover the genomic basis of bleaching and survival variation within species at small spatial scale. Stay tune!
 :::
 
 ::: {.column width="30%"}

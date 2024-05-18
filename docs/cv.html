@@ -149,39 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>```{css, echo=FALSE}</p>
-<p>#title-block-header .description {</p>
-<p>display: none;</p>
-<p>}</p>
-<p>```</p>
-<p>```{css echo=FALSE}</p>
-<p>.embed-container {</p>
-<p>position: relative;</p>
-<p>padding-bottom: 129%;</p>
-<p>height: 0;</p>
-<p>overflow: hidden;</p>
-<p>max-width: 100%;</p>
-<p>}</p>
-<p>.embed-container iframe,</p>
-<p>.embed-container object,</p>
-<p>.embed-container embed {</p>
-<p>position: absolute;</p>
-<p>top: 0;</p>
-<p>left: 0;</p>
-<p>width: 100%;</p>
-<p>height: 100%;</p>
-<p>}</p>
-<p>```</p>
-<p>```{=html}</p>
-<p>&lt;p class=“text-center”&gt;</p>
-<p>&lt;a class=“btn btn-primary btn-lg cv-download” href=“`r rmarkdown::metadata$cv$pdf`” target=“_blank”&gt;</p>
-<p>&lt;i class=“fa-solid fa-file-arrow-down”&gt;&lt;/i&gt; Download current CV</p>
-<p>&lt;/a&gt;</p>
-<p>&lt;/p&gt;</p>
-<p>&lt;div class=“embed-container”&gt;</p>
-<p>&lt;iframe src=“`r rmarkdown::metadata$cv$pdf`” style=“border: 0.5px”&gt;&lt;/iframe&gt;</p>
-<p>&lt;/div&gt;</p>
-<p>```</p>
+<p><code>{{=html}} &lt;object data="Zoe_Meziere_CV.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;"&gt;     &lt;p&gt;It appears you don't have a PDF plugin for this browser.     No biggie... you can &lt;a href="slides123.pdf"&gt;click here to     download the PDF file.&lt;/a&gt;&lt;/p&gt; &lt;/object&gt;</code></p>
 
 
 
