@@ -18,8 +18,8 @@ padding-right: 5%;
   text-align: justify !important
 }
 ```
-::: {.justify}
 
+::: justify
 ## Cryptic speciation in *Stylophora pistillata*
 
 ::: {.column .add-space width="65%"}
@@ -37,7 +37,7 @@ Watch this space!
 :::
 
 ::: {.column width="30%"}
-Insert image here
+![](img/PverSpis.jpg){width="13.3cm"}
 :::
 
 ## Long-term coral common garden experiment
@@ -49,5 +49,4 @@ Watch this space!
 ::: {.column width="30%"}
 Insert image here
 :::
-
 :::
