@@ -4,14 +4,14 @@
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "For the first PhD chapter, I extensively sampled Stylophora pistillata colonies across diverse habitats and at multiple reefs of the Great Barrier Reef. With a final dataset of 379 individuals and 5,332 SNPs obtained from reduced representation (ddRAD) sequencing, I discovered five distinct taxa, with wide geographic ranges and extensive sympatry. I used demographic modelling to investigate divergence histories and found that speciation events have occurred with ongoing or episodic gene flow and that these taxa are at different stages along a divergence continuum. In addition, significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation and that S. pistillata taxa might be differentially adapted to their environment."
+    "text": "For the first PhD chapter, I extensively sampled Stylophora pistillata colonies across diverse habitats and at multiple reefs of the Great Barrier Reef. With a final dataset of 379 individuals and 5,332 SNPs obtained from reduced representation (ddRAD) sequencing, I discovered five distinct taxa, with wide geographic ranges and extensive sympatry. I used demographic modelling to investigate divergence histories and found that speciation events have occurred with ongoing or episodic gene flow and that these taxa are at different stages along a divergence continuum. In addition, significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation and that S. pistillata taxa might be differentially adapted to their environment.\nThis work as been published and can be accessed here."
   },
   {
     "objectID": "research.html#cryptic-speciation-in-stylophora-pistillata",
     "href": "research.html#cryptic-speciation-in-stylophora-pistillata",
     "title": "Research",
     "section": "",
-    "text": "For the first PhD chapter, I extensively sampled Stylophora pistillata colonies across diverse habitats and at multiple reefs of the Great Barrier Reef. With a final dataset of 379 individuals and 5,332 SNPs obtained from reduced representation (ddRAD) sequencing, I discovered five distinct taxa, with wide geographic ranges and extensive sympatry. I used demographic modelling to investigate divergence histories and found that speciation events have occurred with ongoing or episodic gene flow and that these taxa are at different stages along a divergence continuum. In addition, significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation and that S. pistillata taxa might be differentially adapted to their environment."
+    "text": "For the first PhD chapter, I extensively sampled Stylophora pistillata colonies across diverse habitats and at multiple reefs of the Great Barrier Reef. With a final dataset of 379 individuals and 5,332 SNPs obtained from reduced representation (ddRAD) sequencing, I discovered five distinct taxa, with wide geographic ranges and extensive sympatry. I used demographic modelling to investigate divergence histories and found that speciation events have occurred with ongoing or episodic gene flow and that these taxa are at different stages along a divergence continuum. In addition, significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation and that S. pistillata taxa might be differentially adapted to their environment.\nThis work as been published and can be accessed here."
   },
   {
     "objectID": "research.html#dispersal-gene-flow-and-genetic-diversity-in-stylophora-pistillata-and-pocillopora-verrucosa",
@@ -54,5 +54,19 @@
     "title": "Publications",
     "section": "2021",
     "text": "2021\nMeziere, Z., Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. Science of The Total Environment, 151639. https://doi.org/10.1016/j.scitotenv.2021.151639"
+  },
+  {
+    "objectID": "research.html#dispersal-gene-flow-and-genetic-diversity-in-co-distributed-coral-species",
+    "href": "research.html#dispersal-gene-flow-and-genetic-diversity-in-co-distributed-coral-species",
+    "title": "Research",
+    "section": "Dispersal, gene flow and genetic diversity in co-distributed coral species",
+    "text": "Dispersal, gene flow and genetic diversity in co-distributed coral species\n\nFor my second PhD chapter, I investigated how coral reproductive modes (i.e., brooding vs spawning) and associated early life-history traits (e.g., pelagic larval duration) affect the spatial scale of dispersal and resulting ecological and evolutionary processes. I examined two closely related coral species, Stylophora pistillata (brooding) and Pocillopora verrucosa (spawning) and sampled individuals separated by a range of geographic distances ranging from meters to 2,200 km on the Great Barrier Reef. I found that reproductive mode predicts dispersal variance, with meter-scale dispersal in S. pistillata and kilometre-scale dispersal in the spawning P. verrucosa. These differences in dispersal potential are important, not only for shaping ecological dynamics, but also historical levels of population connectivity and the distribution of genetic diversity across space.\nThis is work in progress, watch this space!"
+  },
+  {
+    "objectID": "research.html#long-term-coral-common-garden-experiment-during-a-natural-bleaching-event",
+    "href": "research.html#long-term-coral-common-garden-experiment-during-a-natural-bleaching-event",
+    "title": "Research",
+    "section": "Long-term coral common garden experiment during a natural bleaching event",
+    "text": "Long-term coral common garden experiment during a natural bleaching event\n\nDuring the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particular affected the Southern reefs. To capture intra-specific variation in phenotypic responses facing heat stress and to relate these phenotypic differences with genomic variation, I conducted a long-term common garden experiment. Specifically, I subjected fragments of multiple S. pistillata genotypes to a common environment that was representative of natural conditions during and after a heat wave. By combining weekly survival and health measurements with whole-genome sequencing data, I aim to uncover the genomic basis of bleaching and survival variation within species at small spatial scale. Stay tune!"
   }
 ]
