@@ -28,9 +28,11 @@ website:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Zoe Meziere, 2024"
     
-format: 
-  html: 
-    theme: solar
+format:
+  html:
+    theme:
+      - sandstone
+      - custom.scss
     toc: false
     grid: 
       body-width: 1200px

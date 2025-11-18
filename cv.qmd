@@ -1,13 +1,13 @@
 ---
 title: Curriculum Vitae
 cv:
-  pdf: "Zoe_Meziere_CV.pdf"
+  pdf: "CV_Zoe_Meziere_2025.pdf"
 ---
 
 ```{=html}
-<object data="Zoe_Meziere_CV.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+<object data="CV_Zoe_Meziere_2025.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
     <p>It appears you don't have a PDF plugin for this browser.
-    No problem! You can <a href="Zoe_Meziere_CV.pdf">click here to
+    No problem! You can <a href="CV_Zoe_Meziere_2025.pdf">click here to
     download the PDF file.</a></p>
 </object>
 ```
