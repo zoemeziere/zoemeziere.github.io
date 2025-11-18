@@ -1,7 +1,3 @@
----
-title: "Research"
----
-
 ```{=html}
 <style>
 .add-space{

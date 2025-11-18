@@ -1,7 +1,3 @@
----
-title: "Publications"
----
-
 ## 2025
 
 **Meziere, Z.,** Prata, K., Lechene, M., Ferrari, R., Popovic, I., Riginos, C. (2025). Connectivity differs by orders of magnitude among co-distributed corals, affecting the spatial scales of eco-evolutionary processes, Science Advances, 11(27), eadt2066. [https://doi/10.1126/sciadv.adt2066](https://www.science.org/doi/10.1126/sciadv.adt2066)
