@@ -26,7 +26,7 @@ This work has been published in Science Advances - click [here](https://www.scie
 ## Coral common garden experiment during a heatwave
 
 ::: {layout="[30,70]"}
-During the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To investigate differences in heat stress response in the *S. pistillata* species complex, I conducted a 3-month long common garden experiment at Heron Island Research Station. By combining weekly survival and health measurements with whole-genome sequencing data, the goal is to better disantangle how phenotype differences are shaped by species identity, intra-specific local adaptation, the environment and the symbiont community. I also plan to explore the genomic basis underlying differentiatl bleaching and survival responses. This work is in progress - stay tune!
+During the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To investigate differences in heat stress response in the *Stylophora pistillata* species complex, I conducted a 3-month long common garden experiment at Heron Island Research Station. By combining weekly survival and health measurements with whole-genome sequencing data, the goal is to better disantangle how phenotype differences are shaped by species identity, intra-specific local adaptation, the environment and the symbiont community. I also plan to explore the genomic basis underlying differentiatl bleaching and survival responses. This work is in progress - stay tune!
 :::
 
 ::: {width="30%"}
