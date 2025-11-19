@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://zoemeziere.github.io/cv.html</loc>
+    <lastmod>2025-08-17T03:51:26.348Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zoemeziere.github.io/gallery.html</loc>
+    <lastmod>2025-11-19T00:48:46.207Z</lastmod>
+  </url>
+  <url>
     <loc>https://zoemeziere.github.io/research.html</loc>
-    <lastmod>2025-11-19T03:37:32.520Z</lastmod>
+    <lastmod>2025-11-19T03:41:00.170Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zoemeziere.github.io/index.html</loc>
+    <lastmod>2025-11-19T00:43:06.809Z</lastmod>
+  </url>
+  <url>
+    <loc>https://zoemeziere.github.io/publications.html</loc>
+    <lastmod>2025-11-18T22:16:00.692Z</lastmod>
   </url>
 </urlset>

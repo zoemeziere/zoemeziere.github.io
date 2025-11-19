@@ -7,25 +7,25 @@
     "text": "It appears you don't have a PDF plugin for this browser.\n    No problem! You can click here to\n    download the PDF file."
   },
   {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
+    "objectID": "gallery.html",
+    "href": "gallery.html",
     "title": "Zoe Meziere",
-    "section": "Education",
-    "text": "Education\nPost-doc in Marine Population Genomics (2025 - present)\nUniversity of Queensland (Australia)\nPhD in Marine Population Genomics (2021 - 2025)\nUniversity of Queensland (Australia)\n\nMSc. in Evolutionary Biology (Erasmus Mundus MEME program) (2017 - 2019)\nUppsala University (Sweden)\nLudwig Maximilian University (Germany)\n\nBSc. in Biology and Mathematics (2014 - 2017)\nPierre and Marie Curie University at Roscoff Research Station (France)"
+    "section": "",
+    "text": "Currently under construction!"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Zoe Meziere",
     "section": "",
-    "text": "Stylophora pistillata is currrently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, I discovered five distinct but sympatric taxa across the Great Barrier Reef. Demographic modelling (dadi) revealed that speciation events occurred with ongoing or episodic gene flow, resulting and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation in this species complex.\n\n\nThis work has been published in Evolutionary Applications - click here to read the full paper!"
+    "text": "Stylophora pistillata is currently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, I discovered five distinct but sympatric taxa across the Great Barrier Reef. Demographic modelling (dadi) revealed that speciation events occurred with ongoing or episodic gene flow, and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation in this species complex.\nThis work has been published in Evolutionary Applications — click here to read the full paper!"
   },
   {
     "objectID": "research.html#speciation-in-the-stylophora-pistillata-species-complex",
     "href": "research.html#speciation-in-the-stylophora-pistillata-species-complex",
     "title": "Zoe Meziere",
     "section": "",
-    "text": "Stylophora pistillata is currrently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, I discovered five distinct but sympatric taxa across the Great Barrier Reef. Demographic modelling (dadi) revealed that speciation events occurred with ongoing or episodic gene flow, resulting and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation in this species complex.\n\n\nThis work has been published in Evolutionary Applications - click here to read the full paper!"
+    "text": "Stylophora pistillata is currently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, I discovered five distinct but sympatric taxa across the Great Barrier Reef. Demographic modelling (dadi) revealed that speciation events occurred with ongoing or episodic gene flow, and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation in this species complex.\nThis work has been published in Evolutionary Applications — click here to read the full paper!"
   },
   {
     "objectID": "research.html#connectivity-dynamics-in-co-distributed-coral-species",
@@ -40,6 +40,13 @@
     "title": "Zoe Meziere",
     "section": "Coral common garden experiment during a heatwave",
     "text": "Coral common garden experiment during a heatwave\n\n\n\nDuring the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To investigate differences in heat stress response in the Stylophora pistillata species complex, I conducted a 3-month long common garden experiment at Heron Island Research Station. By combining weekly survival and health measurements with whole-genome sequencing data, the goal is to better disantangle how phenotype differences are shaped by species identity, intra-specific local adaptation, the environment and the symbiont community. I also plan to explore the genomic basis underlying differentiatl bleaching and survival responses. This work is in progress - stay tune!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Zoe Meziere",
+    "section": "Education",
+    "text": "Education\nPost-doc in Marine Population Genomics (2025 - present)\nUniversity of Queensland (Australia)\nPhD in Marine Population Genomics (2021 - 2025)\nUniversity of Queensland (Australia)\n\nMSc. in Evolutionary Biology (Erasmus Mundus MEME program) (2017 - 2019)\nUppsala University (Sweden)\nLudwig Maximilian University (Germany)\n\nBSc. in Biology and Mathematics (2014 - 2017)\nPierre and Marie Curie University at Roscoff Research Station (France)"
   },
   {
     "objectID": "publications.html",
@@ -68,12 +75,5 @@
     "title": "Zoe Meziere",
     "section": "2021",
     "text": "2021\nMeziere, Z., Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. Science of The Total Environment, 151639. https://doi.org/10.1016/j.scitotenv.2021.151639"
-  },
-  {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Zoe Meziere",
-    "section": "",
-    "text": "Currently under construction!"
   }
 ]
