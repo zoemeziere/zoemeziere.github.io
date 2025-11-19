@@ -15,3 +15,29 @@
 .navbar-brand {
   color: #ffffff !important;  /* white text */
 }
+
+/* ---- Two-column image fix ---- */
+
+/* Remove right-side padding/margin from the image column */
+.column.add-space {
+  padding-right: 0;
+  margin-right: 0;
+}
+
+/* Make the image fill the column and remove inline spacing */
+.column.add-space img {
+  width: 100%;
+  display: block;
+}
+
+/* Optional: remove space between columns */
+.columns {
+  gap: 0;
+}
+
+/* Image flush with page right edge */
+.column.add-space img {
+  width: calc(100% + 2rem);   /* increase width to escape container padding */
+  margin-left: -1rem;         /* shift left to sit next to text column */
+  display: block;
+}
