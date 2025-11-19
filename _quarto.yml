@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Zoe Meziere"
+  site-url: "https://zoemeziere.github.io"
   navbar:
     left:
       - href: index.qmd
