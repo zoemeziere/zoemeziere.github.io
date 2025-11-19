@@ -1,12 +1,3 @@
-```{=html}
-<style>
-.add-space{
-padding-right: 2%;
-}
-
-</style>
-```
-
 ## Speciation in the *Stylophora pistillata* species complex
 
 ::: {.column .add-space width="60%"}
