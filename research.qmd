@@ -1,14 +1,13 @@
 ## Speciation in the *Stylophora pistillata* species complex
 
-::: {#first-column layout="[30,70]"}
+::: {layout="[70,30]"}
 *Stylophora pistillata* is currrently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, I discovered five distinct but sympatric taxa across the Great Barrier Reef. Demographic modelling (dadi) revealed that speciation events occurred with ongoing or episodic gene flow, resulting and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in speciation in this species complex.
 
 This work has been published in Evolutionary Applications - click [here](https://onlinelibrary.wiley.com/doi/full/10.1111/eva.13644) to read the full paper!
 :::
 
-::: {#second-column column.width="30%"}
-
-![](img/Speciation.jpg){fig-align="right"}
+::: {#right-image}
+![](img/Speciation.jpg)
 :::
 
 ## Connectivity dynamics in co-distributed coral species
@@ -19,9 +18,11 @@ Connectivity is one of the most fundamental process driving the ecology and evol
 This work has been published in Science Advances - click [here](https://www.science.org/doi/10.1126/sciadv.adt2066) to read the full paper!
 :::
 
-::: {width="30%"}
+<div>
+
 ![](img/Figure4.jpg)
-:::
+
+</div>
 
 ## Coral common garden experiment during a heatwave
 
@@ -29,6 +30,8 @@ This work has been published in Science Advances - click [here](https://www.scie
 During the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern reefs. To investigate differences in heat stress response in the *Stylophora pistillata* species complex, I conducted a 3-month long common garden experiment at Heron Island Research Station. By combining weekly survival and health measurements with whole-genome sequencing data, the goal is to better disantangle how phenotype differences are shaped by species identity, intra-specific local adaptation, the environment and the symbiont community. I also plan to explore the genomic basis underlying differentiatl bleaching and survival responses. This work is in progress - stay tune!
 :::
 
-::: {width="30%"}
+<div>
+
 ![](img/Experiments.jpg){width="10cm"}
-:::
+
+</div>
