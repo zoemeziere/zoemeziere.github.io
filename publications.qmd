@@ -1,3 +1,7 @@
+## 2026
+
+Rowell, D.A., Hammerman , N.M., Golding , K.M., Kenyon T.M., **Meziere Z.** *et al.* Multi-scale observations during the 2024 mass coral bleaching event on Heron Reef, Australia. *Mar Biol* **173**, 17 (2026). https://doi.org/10.1007/s00227-025-04759-5
+
 ## 2025
 
 **Meziere, Z.,** Prata, K., Lechene, M., Ferrari, R., Popovic, I., Riginos, C. (2025). Connectivity differs by orders of magnitude among co-distributed corals, affecting the spatial scales of eco-evolutionary processes, Science Advances, 11(27), eadt2066. [https://doi/10.1126/sciadv.adt2066](https://www.science.org/doi/10.1126/sciadv.adt2066)
@@ -8,6 +12,6 @@ Riginos, C., Popovic, I., **Meziere, Z.**, Garcia, V., Byrne, I., Howitt, S., Is
 
 **Meziere, Z.**, Popovic, I., Prata, K., Ryan, I., Pandolfi, J., & Riginos, C. (2024). Exploring coral speciation: Multiple sympatric *Stylophora pistillata* taxa along a divergence continuum on the Great Barrier Reef. *Evolutionary Applications*, *17*(1), e13644. <https://doi.org/10.1111/eva.13644>
 
-## 2021
+## 2022
 
-**Meziere, Z.**, Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2021). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. *Science of The Total Environment*, 151639. <https://doi.org/10.1016/j.scitotenv.2021.151639>
+**Meziere, Z.**, Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2022). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. *Science of The Total Environment*, 151639. <https://doi.org/10.1016/j.scitotenv.2021.151639>
