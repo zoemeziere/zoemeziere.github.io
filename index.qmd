@@ -1,31 +1,79 @@
-```{=html}
-```
-
-::: {.column .add-space width="52%"}
-![](img/Headshot.jpg){fig-align="center" width="18cm"}
+::::: {.hero}
+::: {.hero-photo}
+![](img/Headshot.jpg){fig-alt="Portrait of Zoe"}
 :::
 
-::: {.column .add-space width="45%"}
-Hi, I'm Zoe (she/her), a postdoctoral fellow at the Australian Institute of Marine Science. I recently finished my PhD at the University of Queensland, where I combined genomic data with ecological and environmental information to learn more about the evolutionary history and adaptive potential of Great Barrier Reef corals. I am particularly interested in using fundamental eco-evolutionary knowledge to predict the fate of climate-threatened species and populations under climate change, and to inform conservation efforts.
-
-I grew up in the French Caribbeans, where I first fell in love with tropical coral reefs. I completed a Bachelor Degree at the Roscoff Research Station, where I discovered temperate marine critters, before pursuing the Erasumus Mundus master's degree in Evolutionary Biology. I was privileged to have a supportive family that prioritized education, and I care about increasing diversity in science.
+::: {.hero-text}
+::: {.hero-kicker}
+Postdoctoral fellow · Australian Institute of Marine Science
 :::
 
-## Education and Research experience
+::: {.hero-name}
+Hi, I'm Zoe (she/her)
+:::
 
-**Postdoctoral fellow in Population Genomics and Bioinformatics** (2026 - present)\
-Australian Institute of Marine Science (Australia)
+I and a population geneticist, currently working as a Postdoctoral fellow at the Australian Institute of Marine Science. My research combines genomic data with ecological and environmental information to learn more about the evolutionary history and adaptive potential of Great Barrier Reef corals. I'm particularly interested in using fundamental eco-evolutionary knowledge to predict the fate of climate-threatened species and populations, and to inform conservation efforts.
 
-**Postdoctoral fellow in Marine Population Genomics** (2025 - 2026)\
-University of Queensland (Australia)
+I grew up in the French Caribbean, where I first fell in love with tropical coral reefs. That curiosity led me to study biology in Roscoff, evolutionary biology in Europe, and then pursuing a PhD to Australia. I was privileged to have a supportive family that prioritised education, and I care about increasing diversity in science.
 
-**PhD in Marine Population Genomics** (2021 - 2025)\
-University of Queensland (Australia)
+I am always happy to discuss potential collaborations, so please feel free to reach out if you are interested in working together!
 
-**MSc. in Evolutionary Biology (Erasmus Mundus MEME program)** (2017 - 2019)\
-Uppsala University (Sweden)\
-Ludwig Maximilian University (Germany)\
-\
-**BSc. in Biology and Mathematics** (2014 - 2017)\
-Pierre and Marie Curie University at Roscoff Research Station (France)\
-\
+::: {.chips}
+[Population genomics]{.chip} [Evolutionary ecology]{.chip} [Climate adaptation]{.chip} [Conservation genomics]{.chip}
+:::
+
+:::
+:::::
+
+## Education and research experience
+
+::: {.cv-item}
+::: {.cv-date}
+2026 – present
+:::
+::: {.cv-details}
+**Postdoctoral fellow in Population Genomics and Bioinformatics**\
+Australian Institute of Marine Science, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2025 – 2026
+:::
+::: {.cv-details}
+**Postdoctoral fellow in Marine Population Genomics**\
+University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2021 – 2025
+:::
+::: {.cv-details}
+**PhD in Marine Population Genomics**\
+University of Queensland, Australia
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2017 – 2019
+:::
+::: {.cv-details}
+**MSc in Evolutionary Biology** (Erasmus Mundus MEME programme)\
+Uppsala University, Sweden\
+Ludwig Maximilian University, Germany
+:::
+:::
+
+::: {.cv-item}
+::: {.cv-date}
+2014 – 2017
+:::
+::: {.cv-details}
+**BSc in Biology and Mathematics**\
+Pierre and Marie Curie University at Roscoff Research Station, France
+:::
+:::

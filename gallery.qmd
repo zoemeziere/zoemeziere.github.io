@@ -1,1 +1,62 @@
-Currently under construction!
+---
+title: "Some photos from the reef..."
+format:
+  html:
+    lightbox:
+      match: auto
+      loop: true
+      desc-position: bottom
+execute:
+  echo: false
+  warning: false
+---
+
+Photos can be used with permission and credit :)
+
+```{r}
+#| output: asis
+
+# ---- Settings ---------------------------------------------------------
+root          <- "img/gallery"   # folder that holds your photos
+show_captions <- FALSE            # captions are made from the file names
+# -----------------------------------------------------------------------
+
+# "01-heron-island_reef.jpg" -> "Heron island reef"
+pretty <- function(f) {
+  x <- tools::file_path_sans_ext(basename(f))
+  x <- sub("^[0-9]+[-_ ]*", "", x)
+  x <- gsub("[-_]+", " ", x)
+  paste0(toupper(substring(x, 1, 1)), substring(x, 2))
+}
+
+# All images directly inside a folder, sorted by file name
+list_images <- function(dir) {
+  sort(list.files(dir,
+                  pattern = "\\.(jpe?g|png|webp|gif)$",
+                  ignore.case = TRUE,
+                  full.names = TRUE))
+}
+
+# Write one gallery block
+write_gallery <- function(files, group) {
+  cat("::: {.gallery}\n\n")
+  for (f in files) {
+    cap <- if (show_captions) pretty(f) else ""
+    cat(sprintf('![%s](%s){group="%s" fig-alt="%s"}\n\n',
+                cap, utils::URLencode(f), group, pretty(f)))
+  }
+  cat(":::\n\n")
+}
+
+# 1. Photos placed directly in img/gallery/ come first, with no heading
+top <- list_images(root)
+if (length(top) > 0) write_gallery(top, "all")
+
+# 2. Each subfolder becomes its own section, named after the folder
+for (d in sort(list.dirs(root, recursive = FALSE))) {
+  files <- list_images(d)
+  if (length(files) == 0) next
+  cat(sprintf("## %s\n\n", pretty(d)))
+  write_gallery(files, basename(d))
+}
+```

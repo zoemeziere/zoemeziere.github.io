@@ -1,43 +1,297 @@
 /*-- scss:rules --*/
-  
-  /* Set beige background */
-  body {
-    background-color: #cfc8b8;  /* light beige */
-  }
 
-/* Set maroon navbar */
-  .navbar {
-    background-color: #ba6d29 !important;  /* maroon */
-  }
+/* ---------- Site-wide ---------- */
 
-/* Set navbar text color */
-  .navbar a,
+/* Beige background */
+body {
+  background-color: #cfc8b8;
+}
+
+/* Orange navbar */
+.navbar {
+  background-color: #ba6d29 !important;
+}
+
+/* Navbar text colour */
+.navbar a,
 .navbar-brand {
-  color: #ffffff !important;  /* white text */
+  color: #ffffff !important;
 }
 
-/* ---- Two-column image fix ---- */
-
-/* Remove right-side padding/margin from the image column */
-.column.add-space {
-  padding-right: 0;
-  margin-right: 0;
+/* Section headings */
+h2 {
+  margin-top: 3rem;
+  padding-bottom: 0.6rem;
 }
 
-/* Make the image fill the column and remove inline spacing */
-.column.add-space img {
+/* ---------- Landing page ---------- */
+
+/* Photo on the left, text on the right */
+.hero {
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);   /* photo width | text */
+  gap: 3.5rem;
+  align-items: center;
+  margin: 2rem 0 4rem;
+}
+
+.hero-photo figure,
+.hero-photo p {
+  margin: 0;
+}
+.hero-photo img {
+  display: block;
   width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 5;           /* portrait crop, so wide photos can't take over */
+  object-fit: cover;
+  object-position: 5% 40%;
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.18);
+}
+
+.hero-kicker {
+  font-size: 0.8rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #5c5a52;
+  margin-bottom: 0.4rem;
+}
+
+.hero-name {
+  font-size: 2.6rem;
+  font-weight: 700;
+  line-height: 1.15;
+  margin-bottom: 1.2rem;
+  color: #343a40;
+}
+
+.hero-text p {
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin-bottom: 1.1rem;
+}
+
+/* Topic tags */
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 1.4rem 0;
+}
+.chips p {
+  display: contents;
+  margin: 0;
+}
+.chip {
+  display: inline-block;
+  padding: 0.25rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid rgba(52, 58, 64, 0.35);
+  font-size: 0.85rem;
+  color: #343a40;
+}
+
+/* Buttons */
+.hero-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+}
+.hero-buttons p {
+  display: contents;
+  margin: 0;
+}
+a.btn-site {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  border-radius: 999px;
+  background: #343a40;
+  color: #f4f1ea;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border: 1.5px solid #343a40;
+  transition: transform 0.15s ease, background 0.15s ease, color 0.15s ease;
+}
+a.btn-site:hover {
+  background: #ba6d29;
+  border-color: #ba6d29;
+  color: #fff;
+  transform: translateY(-2px);
+}
+a.btn-site.outline {
+  background: transparent;
+  color: #343a40;
+}
+a.btn-site.outline:hover {
+  background: #ba6d29;
+  color: #fff;
+}
+
+/* Education timeline */
+.cv-item {
+  display: grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap: 1.5rem;
+  padding: 1rem 0;
+  border-bottom: 0.5px solid rgba(52, 58, 64, 0.25);
+}
+.cv-item:last-of-type {
+  border-bottom: none;
+}
+.cv-date {
+  font-size: 0.9rem;
+  color: #5c5a52;
+  padding-top: 0.15rem;
+}
+.cv-details p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (max-width: 800px) {
+  .hero {
+    grid-template-columns: 1fr;
+    gap: 1.8rem;
+  }
+  .hero-photo img {
+    max-width: 240px;
+    margin: 0 auto;
+  }
+  .hero-name {
+    font-size: 2.1rem;
+  }
+  .cv-item {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+}
+
+/* ---------- Research sections ---------- */
+
+/* Text column wider than the image column */
+.research-item {
+  display: grid;
+  grid-template-columns: minmax(0, 1.7fr) minmax(0, 1fr);
+  gap: 3rem;
+  align-items: center;
+  margin: 2rem 0 5rem;
+}
+
+/* Mirrored version: image on the left */
+.research-item.reverse {
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.7fr);
+}
+.research-item.reverse .research-figure {
+  order: -1;
+}
+
+/* Body text */
+.research-text p {
+  font-size: 1.02rem;
+  line-height: 1.75;
+  margin-bottom: 1.1rem;
+}
+
+/* "Published in ..." label */
+.research-text p:nth-last-of-type(2) {
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  opacity: 0.65;
+  margin-bottom: 0.6rem;
+}
+
+/* Button-style link */
+.research-text a.paper-link {
+  display: inline-block;
+  padding: 0.55rem 1.3rem;
+  border-radius: 999px;
+  background: #343a40;
+  color: #f4f1ea;
+  font-weight: 600;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border-bottom: none;
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.research-text a.paper-link:hover {
+  background: #ba6d29;
+  color: #fff;
+  transform: translateY(-2px);
+}
+
+/* Figures */
+.research-figure figure,
+.research-figure p {
+  margin: 0;
+}
+.research-figure img {
+  display: block;
+  width: 100%;
+  max-width: 420px;          /* change this to make figures smaller or larger */
+  height: auto;
+  margin: 0 auto;
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+@media (max-width: 800px) {
+  .research-item,
+  .research-item.reverse {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    margin-bottom: 3.5rem;
+  }
+  .research-item.reverse .research-figure {
+    order: 0;
+  }
+  .research-figure img {
+    max-width: 520px;
+  }
+}
+
+/* ---------- Gallery ---------- */
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));   /* 3 columns */
+  gap: 1.25rem;
+  margin: 1.5rem 0 3rem;
+}
+
+.gallery > * {
+  margin: 0 !important;
+}
+.gallery figure,
+.gallery p {
+  margin: 0;
+}
+
+.gallery a {
   display: block;
 }
 
-/* Optional: remove space between columns */
-.columns {
-  gap: 0;
+.gallery img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.gallery a:hover img {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.22);
 }
 
-/* Image flush with page right edge */
-.column.add-space img {
-  width: calc(100% + 2rem);   /* increase width to escape container padding */
-  margin-left: -1rem;         /* shift left to sit next to text column */
-  display: block;
+@media (max-width: 900px) {
+  .gallery { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 500px) {
+  .gallery { grid-template-columns: 1fr; }
 }

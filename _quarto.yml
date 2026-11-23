@@ -10,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Research
+        text: Research highlights
       - href: publications.qmd
         text: Publications
       - text: Curriculum Vitae
