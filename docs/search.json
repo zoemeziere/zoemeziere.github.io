@@ -7,13 +7,6 @@
     "text": "It appears you don't have a PDF plugin for this browser.\n    No problem! You can click here to\n    download the PDF file."
   },
   {
-    "objectID": "gallery.html",
-    "href": "gallery.html",
-    "title": "Some photos from the reef…",
-    "section": "",
-    "text": "Photos can be used with permission and credit :)"
-  },
-  {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Zoe Meziere",
@@ -40,6 +33,13 @@
     "title": "Zoe Meziere",
     "section": "Coral common garden experiment during a heatwave",
     "text": "Coral common garden experiment during a heatwave\n\n\nIn the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the southern region. To investigate differences in heat stress responses in the Stylophora pistillata species complex during this extreme heat event, we set up a 3-month-long common garden at Heron Island Research Station. From this experiment, we could disentangle the effect of intrinsic sensitivity (i.e., the identity of the host, the symbionts and genetic adaptation) from environmental exposure on phenotypic responses.\nPublished in Proceedings B\nRead the paper →"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zoe Meziere",
+    "section": "",
+    "text": "Postdoctoral fellow · Australian Institute of Marine Science\n\n\nHi, I am Zoe (she/her)\n\nI am a population geneticist, currently working as a postdoctoral fellow at the Australian Institute of Marine Science. My research combines genomic data with ecological and environmental information to learn more about the evolutionary history and adaptive potential of Great Barrier Reef corals. I am particularly interested in using fundamental eco-evolutionary knowledge to predict the fate of climate-threatened species and populations, and to inform conservation efforts.\nI grew up in the French Caribbean, where I first fell in love with tropical coral reefs. That curiosity led me to study biology in Roscoff, evolutionary biology in Europe, and then move to Australia for my PhD. I was privileged to have a supportive family that prioritised education, and I care about increasing diversity in science.\nI am always happy to discuss potential collaborations, so please feel free to reach out if you are interested in working together!\n\nPopulation genomics Evolutionary ecology Climate adaptation Conservation genomics"
   },
   {
     "objectID": "index.html#education-and-research-experience",
@@ -82,12 +82,5 @@
     "title": "Zoe Meziere",
     "section": "2022",
     "text": "2022\nMeziere, Z., Rich, W. A., Carvalho, S., Benzoni, F., Morán, X. A. G., & Berumen, M. L. (2022). Stylophora under stress: A review of research trends and impacts of stressors on a model coral species. Science of The Total Environment, 151639. https://doi.org/10.1016/j.scitotenv.2021.151639"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zoe Meziere",
-    "section": "",
-    "text": "Postdoctoral fellow · Australian Institute of Marine Science\n\n\nHi, I am Zoe (she/her)\n\nI am a population geneticist, currently working as a postdoctoral fellow at the Australian Institute of Marine Science. My research combines genomic data with ecological and environmental information to learn more about the evolutionary history and adaptive potential of Great Barrier Reef corals. I am particularly interested in using fundamental eco-evolutionary knowledge to predict the fate of climate-threatened species and populations, and to inform conservation efforts.\nI grew up in the French Caribbean, where I first fell in love with tropical coral reefs. That curiosity led me to study biology in Roscoff, evolutionary biology in Europe, and then move to Australia for my PhD. I was privileged to have a supportive family that prioritised education, and I care about increasing diversity in science.\nI am always happy to discuss potential collaborations, so please feel free to reach out if you are interested in working together!\n\nPopulation genomics Evolutionary ecology Climate adaptation Conservation genomics"
   }
 ]

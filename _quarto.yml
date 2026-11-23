@@ -1,6 +1,6 @@
 project:
   type: website
-  ressources:
+  resources:
     - google412baad15d95497d.html
   output-dir: docs
 
