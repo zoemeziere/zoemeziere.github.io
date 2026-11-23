@@ -2,7 +2,7 @@
 
 ::::: {.research-item}
 ::: {.research-text}
-*Stylophora pistillata* is currently taxonomically recognised as one nominal species, but using reduced representation sequencing data of 379 coral colonies, we discovered five genetically distinct and sympatric taxa across the Great Barrier Reef. Demographic modelling revealed that speciation events occurred with ongoing or episodic gene flow, and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in the formation of this species complex.
+*Stylophora pistillata* is currently taxonomically recognised as one nominal species, but using reduced representation sequencing data from 379 coral colonies, we discovered five genetically distinct and sympatric taxa across the Great Barrier Reef. Demographic modelling revealed that speciation events occurred with ongoing or episodic gene flow, and that these five taxa are at different stages along a continuum of genetic divergence. Significant correlations between genetic divergence and environmental variables suggest that niche partitioning may have played a role in the formation of this species complex.
 
 Published in *Evolutionary Applications*
 
@@ -34,7 +34,7 @@ Published in *Science Advances*
 
 ::::: {.research-item}
 ::: {.research-text}
-During the 2024 summer, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the Southern region. To investigate differences in heat stress responses in the *Stylophora pistillata* species complex during this extreme heat event, I set up a 3-month-long common garden at Heron Island Research Station. From this experiment, we could disentangle the effect of intrinsic sensitivity (i.e., the identity of the host, the symbionts and genetic adaptation) from environmental exposure on phenotypic responses.
+In the summer of 2024, the Great Barrier Reef was hit by a fifth mass bleaching event, which particularly affected the southern region. To investigate differences in heat stress responses in the *Stylophora pistillata* species complex during this extreme heat event, we set up a 3-month-long common garden at Heron Island Research Station. From this experiment, we could disentangle the effect of intrinsic sensitivity (i.e., the identity of the host, the symbionts and genetic adaptation) from environmental exposure on phenotypic responses.
 
 Published in *Proceedings B*
 

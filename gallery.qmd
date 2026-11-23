@@ -1,5 +1,5 @@
 ---
-title: "Some photos from the reef..."
+title: "Photos can be used with permission and credit :)"
 format:
   html:
     lightbox:
@@ -10,8 +10,6 @@ execute:
   echo: false
   warning: false
 ---
-
-Photos can be used with permission and credit :)
 
 ```{r}
 #| output: asis
