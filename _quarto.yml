@@ -7,6 +7,7 @@ project:
 website:
   title: "Zoe Meziere"
   site-url: "https://zoemeziere.github.io"
+  description: "Zoe Meziere | Coral population geneticist"
   navbar:
     left:
       - href: index.qmd
