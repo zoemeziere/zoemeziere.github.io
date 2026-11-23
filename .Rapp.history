@@ -1,0 +1,3 @@
+source("/Users/zoemeziere/Documents/GitHub/zoemeziere.github.io/_quarto.yml")
+quarto render
+render
