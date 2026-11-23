@@ -10,7 +10,7 @@ Published in *Evolutionary Applications*
 :::
 
 ::: {.research-figure}
-![](img/speciation.jpg){fig-alt="PCA, map and photo of the five Stylophora pistillata taxa"}
+![](img/speciation.jpg){fig-alt="Genomic PCA and distribution of the five Stylophora pistillata taxa"}
 :::
 :::::
 
@@ -26,7 +26,7 @@ Published in *Science Advances*
 :::
 
 ::: {.research-figure}
-![](img/Figure4.jpg){fig-alt="Dispersal and gene flow in two coral species"}
+![](img/Figure4.jpg){fig-alt="Migration rates for two coral species with contrasting reproductive strategies"}
 :::
 :::::
 
@@ -42,6 +42,6 @@ Published in *Proceedings B*
 :::
 
 ::: {.research-figure}
-![](img/Experiments.jpg){fig-alt="Common garden experiment at Heron Island"}
+![](img/Experiments.jpg){fig-alt="Phenotypic responses of corals under common garden conditions"}
 :::
 :::::
