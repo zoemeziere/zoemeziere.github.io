@@ -10,7 +10,7 @@ Published in *Evolutionary Applications*
 :::
 
 ::: {.research-figure}
-![](img/speciation.jpg){fig-alt="Genomic PCA and distribution of the five Stylophora pistillata taxa"}
+![](img/Speciation.jpg){fig-alt="Genomic PCA and distribution of the five Stylophora pistillata taxa"}
 :::
 :::::
 
